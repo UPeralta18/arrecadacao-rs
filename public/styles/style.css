@@ -1,0 +1,10 @@
+html {
+    width: 95%;
+    margin: 0 auto;
+}
+
+header {
+    padding-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
