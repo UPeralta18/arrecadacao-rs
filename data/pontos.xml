@@ -1,0 +1,20 @@
+<pontos>
+  <ponto>
+    <Endereco>Rua A, 123</Endereco>
+    <Cidade>São Paulo</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>(11) 1234-5678</Contato>
+    <O_que_esta_arrecadando>Produtos de limpeza</O_que_esta_arrecadando>
+    <Horario_Atendimento>Seg-Sex: 08:00-18:00</Horario_Atendimento>
+    <Data_Limite>10/05/2024</Data_Limite>
+  </ponto>
+  <ponto>
+    <Endereco>Avenida B, 456</Endereco>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>Rio de Janeiro</Estado>
+    <Contato>(21) 9876-5432</Contato>
+    <O_que_esta_arrecadando>Alimentos</O_que_esta_arrecadando>
+    <Horario_Atendimento>Seg-Sex: 09:00-19:00</Horario_Atendimento>
+    <Data_Limite>10/05/2024</Data_Limite>
+  </ponto>
+</pontos>
