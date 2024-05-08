@@ -48,7 +48,8 @@ app.post('/salvar', (req, res) => {
                 Endereco: dadosDoFormulario.endereco,
                 Cidade: dadosDoFormulario.cidade,
                 Estado: dadosDoFormulario.estado,
-                Contato: dadosDoFormulario.contato == '' ? '-' : dadosDoFormulario.contato ,
+                Contato: dadosDoFormulario.contato == '' ? '-' : dadosDoFormulario.contato,
+                Redes: dadosDoFormulario.redes == '' ? '-' : dadosDoFormulario.redes,
                 O_que_esta_arrecadando: dadosDoFormulario.arrecadacao == '' ? '-' : dadosDoFormulario.arrecadacao,
                 Horario_Atendimento: dadosDoFormulario.horario_atendimento == '' ? '-' : dadosDoFormulario.horario_atendimento,
                 Data_Limite: dadosDoFormulario.data_limite == '' ? '-' : dadosDoFormulario.data_limite

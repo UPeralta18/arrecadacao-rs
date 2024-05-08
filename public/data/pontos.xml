@@ -1,29 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pontos>
   <ponto>
-    <Endereco>Rua A, 123</Endereco>
-    <Cidade>São Paulo</Cidade>
+    <Endereco>antiga estação Ferroviária, na Rua 1 com Avenida 1</Endereco>
+    <Cidade>Rio Claro</Cidade>
     <Estado>São Paulo</Estado>
-    <Contato>(11) 1234-5678</Contato>
-    <O_que_esta_arrecadando>Produtos de limpeza</O_que_esta_arrecadando>
-    <Horario_Atendimento>Seg-Sex: 08:00-18:00</Horario_Atendimento>
-    <Data_Limite>10/05/2024</Data_Limite>
-  </ponto>
-  <ponto>
-    <Endereco>Avenida B, 456</Endereco>
-    <Cidade>Rio de Janeiro</Cidade>
-    <Estado>Rio de Janeiro</Estado>
-    <Contato>(21) 9876-5432</Contato>
-    <O_que_esta_arrecadando>Alimentos</O_que_esta_arrecadando>
-    <Horario_Atendimento>Seg-Sex: 09:00-19:00</Horario_Atendimento>
-    <Data_Limite>10/05/2024</Data_Limite>
-  </ponto>
-  <ponto>
-    <Endereco>Rua M 9</Endereco>
-    <Cidade>Ariquemes</Cidade>
-    <Estado>Rondônia</Estado>
     <Contato>-</Contato>
+    <Redes>-</Redes>
     <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>das 9 às 16 horas</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Endereco>Rua 3, 1505</Endereco>
+    <Cidade>Rio Claro</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>roupas pessoais e de cama, enxoval, cobertores, produtos de higiene pessoal e também alimentos, como pão de forma, bolachas, enlatados e alimentos não perecíveis e prontos para o consumo.</O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Endereco>Rodovia Washington Luís, quilômetro 165</Endereco>
+    <Cidade>Santa Gertrudes</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda à sexta das 8 às 20 horas e sábados até as 18 horas</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Endereco> Av. M 23, 1239</Endereco>
+    <Cidade>Rio Claro</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>(19) 3524-2846</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>produtos de higiene pessoal, material de higiene seco e itens de vestuário</O_que_esta_arrecadando>
+    <Horario_Atendimento>Das 09h às 17h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Endereco>Rua 14, 1552</Endereco>
+    <Cidade>Rio Claro</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://instagram.com/anjosdefocinho / https://instagram.com/jr_racoes</Redes>
+    <O_que_esta_arrecadando>ração, simparic, vermífugo, caminhas, suplementos, pelúcias, brinquedos, panos, cobertas, sachês e patês para os pets</O_que_esta_arrecadando>
     <Horario_Atendimento>-</Horario_Atendimento>
     <Data_Limite>-</Data_Limite>
   </ponto>
