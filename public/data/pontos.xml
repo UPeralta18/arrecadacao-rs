@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pontos>
   <ponto>
+    <Lugar>Prefeitura de Rio Claro</Lugar>
     <Endereco>antiga estação Ferroviária, na Rua 1 com Avenida 1</Endereco>
     <Cidade>Rio Claro</Cidade>
     <Estado>São Paulo</Estado>
@@ -11,6 +12,7 @@
     <Data_Limite>-</Data_Limite>
   </ponto>
   <ponto>
+    <Lugar>Bella's Camas</Lugar>
     <Endereco>Rua 3, 1505</Endereco>
     <Cidade>Rio Claro</Cidade>
     <Estado>São Paulo</Estado>
@@ -21,6 +23,7 @@
     <Data_Limite>-</Data_Limite>
   </ponto>
   <ponto>
+    <Lugar>Bocão Pisos</Lugar>
     <Endereco>Rodovia Washington Luís, quilômetro 165</Endereco>
     <Cidade>Santa Gertrudes</Cidade>
     <Estado>São Paulo</Estado>
@@ -31,6 +34,7 @@
     <Data_Limite>-</Data_Limite>
   </ponto>
   <ponto>
+    <Lugar>Correios Rio Claro</Lugar>
     <Endereco> Av. M 23, 1239</Endereco>
     <Cidade>Rio Claro</Cidade>
     <Estado>São Paulo</Estado>
@@ -41,6 +45,7 @@
     <Data_Limite>-</Data_Limite>
   </ponto>
   <ponto>
+    <Lugar>Anjos de Focinho e Jr Rações</Lugar>
     <Endereco>Rua 14, 1552</Endereco>
     <Cidade>Rio Claro</Cidade>
     <Estado>São Paulo</Estado>

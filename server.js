@@ -45,6 +45,7 @@ app.post('/salvar', (req, res) => {
 
             // Adiciona o novo ponto ao objeto JavaScript
             result.pontos.ponto.push({
+                Lugar: dadosDoFormulario.lugar,
                 Endereco: dadosDoFormulario.endereco,
                 Cidade: dadosDoFormulario.cidade,
                 Estado: dadosDoFormulario.estado,

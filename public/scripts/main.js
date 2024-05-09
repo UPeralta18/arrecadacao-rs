@@ -12,9 +12,10 @@ function exibirDadosXML() {
             // Array para armazenar os dados dos pontos
             var ponto = xmlDoc.getElementsByTagName("ponto");
             // Construção da tabela
-            var tabelaHTML = "<table id='myTable' class='display'><thead><tr><th>Endereço</th><th>Cidade</th><th>Estado</th><th>Contato</th><th>Redes Sociais</th><th>O que está arrecadando</th><th>Horário de Atendimento</th><th>Data Limite</th></tr></thead><tbody>";
+            var tabelaHTML = "<table id='myTable' class='display'><thead><tr><th>Lugar</th><th>Endereço</th><th>Cidade</th><th>Estado</th><th>Contato</th><th>Redes Sociais</th><th>O que está arrecadando</th><th>Horário de Atendimento</th><th>Data Limite</th></tr></thead><tbody>";
             for (var i = 0; i < ponto.length; i++) {
                 tabelaHTML += "<tr>";
+                tabelaHTML += "<td>" + ponto[i].getElementsByTagName("Lugar")[0].childNodes[0].nodeValue + "</td>";
                 tabelaHTML += "<td>" + ponto[i].getElementsByTagName("Endereco")[0].childNodes[0].nodeValue + "</td>";
                 tabelaHTML += "<td>" + ponto[i].getElementsByTagName("Cidade")[0].childNodes[0].nodeValue + "</td>";
                 tabelaHTML += "<td>" + ponto[i].getElementsByTagName("Estado")[0].childNodes[0].nodeValue + "</td>";
