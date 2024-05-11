@@ -42,11 +42,37 @@
                     Cadastrar um Ponto de Arrecadação
                 </button>
             </div>
-            
-            <h4 class="text-danger">Antes de fazer a sua doação, lave tudo muito bem, separe e etiquete cada tipo donativo e apenas doe o que estiver em boas condições de uso.</h4>
         </div>
+        <h4 class="text-danger">Antes de fazer a sua doação, lave tudo muito bem, separe e etiquete cada tipo
+            donativo e apenas doe o que estiver em boas condições de uso.</h4>
     </header>
-    <main class="container mt-4">
+    <main class="container-fluid mt-4">
+        <!-- <button type="button" class="btn btnFiltrar" id="btnFiltrar">
+            Filtrar
+        </button> -->
+        <div class="filtrar row">
+            <h2 class="fs-4">Filtrar resultados por Estado e Cidade</h2>
+            <div class="col-sm">
+                <label for="estado" class="form-label">Estado:</label>
+                <select class="form-select" id="estadoBusca" name="estadoBusca">
+                    <option value="" disabled selected>Selecione um estado</option>
+                    <!-- Opções de estado -->
+                </select>
+            </div>
+            <div class="col-sm">
+                <label for="cidade" class="form-label">Cidade:</label>
+                <select class="form-select" id="cidadeBusca" name="cidadeBusca">
+                    <option value="" disabled selected>Selecione uma cidade</option>
+                    <!-- Opções de cidade -->
+                </select>
+            </div>
+            <div class="col-sm btnLimpar">
+                <button type="button" class="btn btn-primary " id="limparBusca">
+                    Limpar Cidade e Estado
+                </button>
+            </div>
+        </div>
+        <br />
         <div id="dados"></div>
 
         <!-- Modal de Cadastro -->
@@ -64,8 +90,7 @@
                         <!-- Formulário de Cadastro -->
                         <form id="formCadastro" action="/salvar" method="POST">
                             <div class="mb-3">
-                                <label for="lugar" class="form-label">Lugar<span
-                                        class="text-danger">*</span>:</label>
+                                <label for="lugar" class="form-label">Lugar<span class="text-danger">*</span>:</label>
                                 <input type="text" class="form-control" id="lugar" name="lugar" required
                                     placeholder="Nome do Lugar">
                             </div>
@@ -126,7 +151,8 @@
     </main>
     <footer class="footer mt-auto py-3 bg-light">
         <div class="container text-center">
-            <span class="text-muted">Em caso de problemas, entrar em contato por e-mail em <a href="mailto:uperalta18@gmail.com">uperalta18@gmail.com</a></span>
+            <span class="text-muted">Em caso de problemas, entrar em contato por e-mail em <a
+                    href="mailto:uperalta18@gmail.com">uperalta18@gmail.com</a></span>
         </div>
     </footer>
 </body>

@@ -55,4 +55,500 @@
     <Horario_Atendimento>-</Horario_Atendimento>
     <Data_Limite>-</Data_Limite>
   </ponto>
+  <ponto>
+    <Lugar>Fundo Social de Solidariedade (FSS)</Lugar>
+    <Endereco>Rua Cavalheiro Nami Jafet, 549</Endereco>
+    <Cidade>Guarujá</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>alimentos não perecíveis, água mineral e produtos de higiene</O_que_esta_arrecadando>
+    <Horario_Atendimento>das 9 às 17 horas</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo Praia Grande</Lugar>
+    <Endereco>Avenida Ayrton Senna da Silva, 1511, no bairro Intermares.</Endereco>
+    <Cidade>Praia Grande</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo Santos</Lugar>
+    <Endereco>Rua João Pessoa, 246, no Centro.</Endereco>
+    <Cidade>Santos</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo Guarujá </Lugar>
+    <Endereco>Rua Frei Gaspar, 365, 2o andar</Endereco>
+    <Cidade>Guarujá</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Base Aérea</Lugar>
+    <Endereco>Endereço: Portão G1 – Av. Monteiro Lobato, 6365 – Guarulhos – SP ou Portão G3 (Acesso pelo Aeroporto) </Endereco>
+    <Cidade>Guarulhos</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>Água, Fraldas, Roupas em bom estado, Alimentos não perecíveis, Agasalhos, Cobertores, Água, sanitária, Balde, Desinfetante, Detergente, Detergente em pó, Esponja para limpeza, Esponja de aço, Limpador multiuso, Luva de látex, Pano de chão, Rodo, Sabão em barra, Sacos de lixo, Saponáceo, Vassoura, Aparelho de barbear, Creme dental, Escova de dente, Fio dental, Sabonete, Shampoo e condicionador</O_que_esta_arrecadando>
+    <Horario_Atendimento>aberto das 8h às 18h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo</Lugar>
+    <Endereco>Rod. Pres. Dutra - Pista Lateral, 225 / Dentro do Shopping Internacional</Endereco>
+    <Cidade>Guarulhos</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>Água, Fraldas, Roupas em bom estado, Alimentos não perecíveis, Agasalhos, Cobertores, Água, sanitária, Balde, Desinfetante, Detergente, Detergente em pó, Esponja para limpeza, Esponja de aço, Limpador multiuso, Luva de látex, Pano de chão, Rodo, Sabão em barra, Sacos de lixo, Saponáceo, Vassoura, Aparelho de barbear, Creme dental, Escova de dente, Fio dental, Sabonete, Shampoo e condicionador.</O_que_esta_arrecadando>
+    <Horario_Atendimento>Das 7h às 19h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo São Vicente</Lugar>
+    <Endereco>Rua Frei Gaspar, 365, no 2º andar, no Centro.</Endereco>
+    <Cidade>São Vicente</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo Cubatão</Lugar>
+    <Endereco>Avenida Dr. Fernando Costa, 931, na Vila Couto.</Endereco>
+    <Cidade>Cubatão</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo Bertioga</Lugar>
+    <Endereco>Avenida Dezenove de Maio, 684, no Jardim Albatroz.</Endereco>
+    <Cidade>Cubatão</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo Mongaguá</Lugar>
+    <Endereco>Avenida Dr. Getúlio Vargas, 88, no Centro.</Endereco>
+    <Cidade>Mongaguá</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Poupatempo Itanhaém</Lugar>
+    <Endereco>Rua Leão XIII, 67, no bairro Suarão.</Endereco>
+    <Cidade>Itanhaém</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>segunda-feira a sexta-feira, das 9h às 17h, e aos sábados, das 9h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Salão do Humanize Centro Empresarial</Lugar>
+    <Endereco>R. Álvaro Macedo, 125</Endereco>
+    <Cidade>Camaquã</Cidade>
+    <Estado>Rio Grande do Sul</Estado>
+    <Contato>(51) 98445-1244</Contato>
+    <Redes>https://www.instagram.com/soscamaqua/</Redes>
+    <O_que_esta_arrecadando>PÃO
+MORTADELA
+FEIJÃO
+LEITE</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h as 22h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Fundação Caxias</Lugar>
+    <Endereco>Rua Sarmento Leite, 2189 - Rio Branco</Endereco>
+    <Cidade>Caxias do Sul</Cidade>
+    <Estado>Rio Grande do Sul</Estado>
+    <Contato>(54) 32230528</Contato>
+    <Redes>https://www.instagram.com/fundacaocaxias/</Redes>
+    <O_que_esta_arrecadando>Água Potável
+Alimentos não perecíveis
+Cobertores e Lençóis
+Colchões
+Materiais de Higiene e Limpeza
+Sofás
+Travesseiros</O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar> Cruz Vermelha</Lugar>
+    <Endereco>R. Feijó Júnior, 269, bairro São Pelegrino</Endereco>
+    <Cidade>Caxias do Sul</Cidade>
+    <Estado>Rio Grande do Sul</Estado>
+    <Contato>(54) 933003703</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>oupas para adultos e crianças
+Fraldas
+Materiais de higiene pessoal
+Produtos de limpeza
+Ração para pets
+Roupas de cama e banho
+Lonas
+Calçados para adultos e crianças</O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Serviço de Convivência CAE | Euzébio Beltrão de Queiroz</Lugar>
+    <Endereco>R. Bento Gonçalves, 3333</Endereco>
+    <Cidade>Caxias do Sul</Cidade>
+    <Estado>Rio Grande do Sul</Estado>
+    <Contato>(54) 99189-6840</Contato>
+    <Redes>https://www.instagram.com/cae.associacao/</Redes>
+    <O_que_esta_arrecadando>Água, Fraldas, Roupas em bom estado, Alimentos não perecíveis, Agasalhos, Cobertores, Água, sanitária, Balde, Desinfetante, Detergente, Detergente em pó, Esponja para limpeza, Esponja de aço, Limpador multiuso, Luva de látex, Pano de chão, Rodo, Sabão em barra, Sacos de lixo, Saponáceo, Vassoura, Aparelho de barbear, Creme dental, Escova de dente, Fio dental, Sabonete, Shampoo e condicionador.</O_que_esta_arrecadando>
+    <Horario_Atendimento>aberto das 7h as 22h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Otzi</Lugar>
+    <Endereco>R. Pedro Soares de Almeida, 114 - Vila Madalena</Endereco>
+    <Cidade>São Paulo</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://instagram.com/otzigroup</Redes>
+    <O_que_esta_arrecadando>Água, Fraldas (Bebê e Geriátrica), Roupas em bom estado, Alimentos não perecíveis, Agasalhos, Cobertores, Produtos de Limpeza, Produtos de Higiene, Medicamentos, Itens Pets (Vermífugo, Antipulgas, Coleiras, Casinhas, Ração úmida), Leite infantil (fórmula em pó), Ração Gatos e Cachorros, Produtos Médicos (Gaze, Algodão, Seringa, Agulha, Álcool, Esparadrapo). </O_que_esta_arrecadando>
+    <Horario_Atendimento>12h às 19h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Mh Studios</Lugar>
+    <Endereco>R Fidalga, 274 </Endereco>
+    <Cidade>São Paulo</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/mhstudios_</Redes>
+    <O_que_esta_arrecadando>ROUPAS PLUS SIZE
+Alimentos não perecíveis,  Fórmula infantil, Leite normal e sem lactose, Fraldas(infantil e geriátrica),Absorventes, Pomadas de Assadura, Roupas de frio, Cobertores, Roupas Intimas (NOVAS), Produtos de Limpeza, Produtos de Higiene, Medicamentos. </O_que_esta_arrecadando>
+    <Horario_Atendimento>seg-sex: 10h às 18h10:30h às 16h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Volpevet, Anjos de Focinho</Lugar>
+    <Endereco>R. 8, 2148 - Santana</Endereco>
+    <Cidade>Rio Claro</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://instagram.com/anjosdefocinho</Redes>
+    <O_que_esta_arrecadando>Gaze, Algodão, Luva, Coleiras, Caminhas, Mantas, Esparadrapo, Tesoura, Máscara, Pilha, Focinheiras, Álcool Gel, Super Bonder, Lanterna, Ataduras para curativos
+Remédios- amoxilina com clavulanato, doxiciclina, dipirona, meloxicam, vonau, enrofloxaxina, prediderm. </O_que_esta_arrecadando>
+    <Horario_Atendimento>24 horas, seg até as 18h</Horario_Atendimento>
+    <Data_Limite>13/05/2024</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>FeedMe</Lugar>
+    <Endereco>R Italina Pereira Motta, 500 </Endereco>
+    <Cidade>Vitória</Cidade>
+    <Estado>Espírito Santo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/usefeedme</Redes>
+    <O_que_esta_arrecadando>Pomadas de assadura, Fraldas, Sabonetes Shampoo, Condicionador, Pente, Desodorante, Lenço umedecido, Chupeta, Mamadeira, Gases, Soro fisiológico, Esparadrapo, Água, Café, Escova Dental, Pasta Dental, Descartáveis, Roupas, Calçados e roupas íntimas, Ração(cachorros/gatos)</O_que_esta_arrecadando>
+    <Horario_Atendimento>14h às 20h</Horario_Atendimento>
+    <Data_Limite>13/05/2024</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Hangar Minetoo</Lugar>
+    <Endereco>Av. Olavo Fontoura, 1078, Santana </Endereco>
+    <Cidade>São Paulo</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/hangarsolidario</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 18h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Hangar Anchieta</Lugar>
+    <Endereco>Av. Olavo Fontoura, 594 - Santana</Endereco>
+    <Cidade>São Paulo</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/hangarsolidario</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 18h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Hangar 2 FBO</Lugar>
+    <Endereco>R. Sylvia da Braga, 415 - Jardim Santa Monica</Endereco>
+    <Cidade>Campinas</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/hangarsolidario</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 18h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Azul Cargo Express 2</Lugar>
+    <Endereco>Av. Viracopos, 1870 - Portão 1</Endereco>
+    <Cidade>Campinas</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/hangarsolidario</Redes>
+    <O_que_esta_arrecadando>-</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 18h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Ibama do Rio de Janeiro </Lugar>
+    <Endereco>Praça Quinze de Novembro, 42 </Endereco>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>Rio de Janeiro</Estado>
+    <Contato>(21) 3077 - 4290 / (21) 3077 - 4300 / (21) 9 6680 - 4290 (somente whatsapp)</Contato>
+    <Redes>https://www.instagram.com/ibamagov</Redes>
+    <O_que_esta_arrecadando>Anestésicos diversos, Medicamentos injetáveis: Agemox, Dexametasona, Enrofloxacino, Terramicina LA, Doxiciclina, Azitromicina, Meloxicam, Cetoprofeno, Ciprofloxacino, Potenay, Mercepton, Diazepan, Metadona, Butorphanol
+Soro fisiológico, Terracotril, Vetaglo
+Vermifugo (cães e gatos), Ração úmida, Coleiras (comum e para Leishmaniose), Focinheira
+Insumos Hospitalares: Luvas; Vetrap; Seringa 1,3 e 5ml; Agulha 25x7 e 13x45, Esparadrapo, Micropore, Scalp, Cateter. </O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>17/05</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Ibama Minas Gerais</Lugar>
+    <Endereco>Av. do Contorno, 8121 - Cidade Jardim</Endereco>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>Minas Gerais</Estado>
+    <Contato>(31) 3555-6100</Contato>
+    <Redes>https://www.instagram.com/ibamagov</Redes>
+    <O_que_esta_arrecadando>Anestésicos diversos, Medicamentos injetáveis: Agemox, Dexametasona, Enrofloxacino, Terramicina LA, Doxiciclina, Azitromicina, Meloxicam, Cetoprofeno, Ciprofloxacino, Potenay, Mercepton, Diazepan, Metadona, Butorphanol
+Soro fisiológico, Terracotril, Vetaglo
+Vermifugo (cães e gatos), Ração úmida, Coleiras (comum e para Leishmaniose), Focinheira
+Insumos Hospitalares: Luvas; Vetrap; Seringa 1,3 e 5ml; Agulha 25x7 e 13x45, Esparadrapo, Micropore, Scalp, Cateter. </O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>17/05/2024</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Ibama de Goiás</Lugar>
+    <Endereco>R. José Alves Toledo, Ch. da União, s/n (em frente ao Bairro Vale dos Sonhos, paralelo à BR 153, km 137)</Endereco>
+    <Cidade>Goiânia</Cidade>
+    <Estado>Goiás</Estado>
+    <Contato>(62) 99898-4928</Contato>
+    <Redes>https://www.instagram.com/ibamagov</Redes>
+    <O_que_esta_arrecadando>Anestésicos diversos, Medicamentos injetáveis: Agemox, Dexametasona, Enrofloxacino, Terramicina LA, Doxiciclina, Azitromicina, Meloxicam, Cetoprofeno, Ciprofloxacino, Potenay, Mercepton, Diazepan, Metadona, Butorphanol
+Soro fisiológico, Terracotril, Vetaglo
+Vermifugo (cães e gatos), Ração úmida, Coleiras (comum e para Leishmaniose), Focinheira
+Insumos Hospitalares: Luvas; Vetrap; Seringa 1,3 e 5ml; Agulha 25x7 e 13x45, Esparadrapo, Micropore, Scalp, Cateter. </O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>17/05/202</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Ibama Minas Gerais</Lugar>
+    <Endereco>Av. Prefeito Mello Reis, 1500 - Bairro Aeroporto</Endereco>
+    <Cidade>Juiz de Fora</Cidade>
+    <Estado>Minas Gerais</Estado>
+    <Contato>(32) 3233-1269</Contato>
+    <Redes>https://www.instagram.com/ibamagov</Redes>
+    <O_que_esta_arrecadando>Anestésicos diversos, Medicamentos injetáveis: Agemox, Dexametasona, Enrofloxacino, Terramicina LA, Doxiciclina, Azitromicina, Meloxicam, Cetoprofeno, Ciprofloxacino, Potenay, Mercepton, Diazepan, Metadona, Butorphanol
+Soro fisiológico, Terracotril, Vetaglo
+Vermifugo (cães e gatos), Ração úmida, Coleiras (comum e para Leishmaniose), Focinheira
+Insumos Hospitalares: Luvas; Vetrap; Seringa 1,3 e 5ml; Agulha 25x7 e 13x45, Esparadrapo, Micropore, Scalp, Cateter. </O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>17/05/2024</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Ibama Rio Grande do Norte </Lugar>
+    <Endereco>Av. Almirante Alexandrino de Alencar, 1399 - Tirol</Endereco>
+    <Cidade>Natal</Cidade>
+    <Estado>Rio Grande do Norte</Estado>
+    <Contato>(84) 98180- 9524 </Contato>
+    <Redes>https://www.instagram.com/ibamagov</Redes>
+    <O_que_esta_arrecadando>Anestésicos diversos, Medicamentos injetáveis: Agemox, Dexametasona, Enrofloxacino, Terramicina LA, Doxiciclina, Azitromicina, Meloxicam, Cetoprofeno, Ciprofloxacino, Potenay, Mercepton, Diazepan, Metadona, Butorphanol
+Soro fisiológico, Terracotril, Vetaglo
+Vermifugo (cães e gatos), Ração úmida, Coleiras (comum e para Leishmaniose), Focinheira
+Insumos Hospitalares: Luvas; Vetrap; Seringa 1,3 e 5ml; Agulha 25x7 e 13x45, Esparadrapo, Micropore, Scalp, Cateter. </O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>17/05/2024</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Herself</Lugar>
+    <Endereco>Av. São Luís, 187 - Loja 21, 1° andar - Republica / Galeria Metrópole</Endereco>
+    <Cidade>São Paulo</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/herselfbrasil</Redes>
+    <O_que_esta_arrecadando>Absorventes, Toalhas de rosto e banho, Papel Higiênico, Shampoo, Condicionador, Calcinhas/Cuecas, Escova de Cabelo, Escova de dente, Desodorante, Chinelo.</O_que_esta_arrecadando>
+    <Horario_Atendimento>Seg-Sex: 11h-18h / Sab: 13h-16h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Matilha Cultural</Lugar>
+    <Endereco>R Rego Freitas, 542 - Republica (Aos Cuidados de Will Silva) </Endereco>
+    <Cidade>São Paulo</Cidade>
+    <Estado>São Paulo</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/matilhacultural</Redes>
+    <O_que_esta_arrecadando>Roupas Plus Size</O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>CEU Paraná </Lugar>
+    <Endereco>R Luiz Leão,01 - Centro (No Hall de entrada da Fundação Casa do Estudante)</Endereco>
+    <Cidade>Curitiba</Cidade>
+    <Estado>Paraná</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/ceupr</Redes>
+    <O_que_esta_arrecadando>Água, Alimentos não perecíveis, Produtos de higiene pessoal, Produtos e materiais de limpeza, Ração para animais domésticos), Roupas de cama, mesa e banho.</O_que_esta_arrecadando>
+    <Horario_Atendimento>-</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Fundação Somar</Lugar>
+    <Endereco>Padre Lourenço R. de Andrade, 180 – Santo Antônio de Lisboa</Endereco>
+    <Cidade>Florianópolis</Cidade>
+    <Estado>Santa Catarina</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/somarfloripa</Redes>
+    <O_que_esta_arrecadando>Abafadores de ruido, muletas, cadeiras de rodas, botas imobilizadoras, tipoias para ombros, braços, fraldas, cadeiras de banho, oximêtros, andadores, cordões de identificação. 
+Água, colchões, itens pets (casinhas, caminhas, vermífugo, antipulgas, coleiras), Agasalhos, Cobertores, Alimentos não perecíveis, produtos de higiene, produtos de limpeza. </O_que_esta_arrecadando>
+    <Horario_Atendimento>Seg-Sex: 9h às 18h / Sab: 8h às 12h </Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Cufa Rio</Lugar>
+    <Endereco>fica na Rua Francisco Batista, Nº 1 (sob o Viaduto Negrão de Lima, Madureira)</Endereco>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>Rio de Janeiro</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/cufario</Redes>
+    <O_que_esta_arrecadando>Água, alimentos não perecível, colchonete, roupa de cama, toalha, material de higiene, ração.</O_que_esta_arrecadando>
+    <Horario_Atendimento>9h às 19h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Aeroporto da Pampulha</Lugar>
+    <Endereco>Praça Bagatelle, 204 - São Luiz ( Aeroporto Carlos Drummond de Andrade)</Endereco>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>Minas Gerais</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>Não estão sendo aceitos produtos de limpeza que contenham alvejantes ou que sejam corrosivos, produtos inflamáveis e óleo de cozinha. Enviar preferencialmente em caixas de papelões. </O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 18h </Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Petz Nossa Senhora do Carmo </Lugar>
+    <Endereco>Avenida Nossa Senhora do Carmo, 1.448 - São Pedro</Endereco>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>Minas Gerais</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando> Itens Pets (caminhas, casinhas, vermífugo, antipulgas, coleiras), ração, água potável, roupas, alimentos, produtos de higiene e de limpeza.</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h à 0h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Petz Pampulha</Lugar>
+    <Endereco>Avenida Professor Magalhães Penido, 1.000 - Liberdade</Endereco>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>Minas Gerais</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>Itens Pets (caminhas, casinhas, vermífugo, antipulgas, coleiras), ração, água potável, roupas, alimentos, produtos de higiene e de limpeza.</O_que_esta_arrecadando>
+    <Horario_Atendimento>9h às 22h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar> Defesa Civil Municipal</Lugar>
+    <Endereco>Rua Corveta nº141</Endereco>
+    <Cidade>Campo Grande</Cidade>
+    <Estado>Mato Grosso do Sul</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>água mineral, itens de higiene e limpeza, alimentos não perecíveis, sacos de lixo, velas, lanternas e cobertores.</O_que_esta_arrecadando>
+    <Horario_Atendimento>aberta 24h, ligar no 199 após às 19h </Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Cruz Vermelha Brasileira de Mato Grosso</Lugar>
+    <Endereco>Av. Historiador Rubens de Mendonça, 5925 - CPA I (Ao lado do comando geral da PM)</Endereco>
+    <Cidade>Cuiabá</Cidade>
+    <Estado>Mato Grosso</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/cruzvermelhademt</Redes>
+    <O_que_esta_arrecadando>Água, Produtos de Higiene, Fraldas (infantis e geriátricas), Roupas e calçados, Cestas básicas, Cobertores. </O_que_esta_arrecadando>
+    <Horario_Atendimento>seg-sab: 8h às 13h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Aeroporto de São Luís</Lugar>
+    <Endereco>Av. dos Libaneses, 3503 - Tirirical</Endereco>
+    <Cidade>São Luís</Cidade>
+    <Estado>Maranhão</Estado>
+    <Contato>-</Contato>
+    <Redes>-</Redes>
+    <O_que_esta_arrecadando>água, alimentos não perecíveis, itens de higiene pessoal, material de limpeza, fraldas, cestas básicas, água mineral, cobertores, roupas pessoais e de cama, banho e ração animal. </O_que_esta_arrecadando>
+    <Horario_Atendimento>24 horas</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Universidade Salvador (UNIFACS)</Lugar>
+    <Endereco>AV. Tancredo Neves, 2131 - Caminho das Árvores - CTN</Endereco>
+    <Cidade>Salvador</Cidade>
+    <Estado>Bahia</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/universidadesalvador</Redes>
+    <O_que_esta_arrecadando>Alimentos não pereciveis, Produtos de higiene pessoal, Agasalhos e roupa de cama, Ração (Cão e Gato)</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 20h </Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Universidade Salvador (UNIFACS)</Lugar>
+    <Endereco>Av. Luis Viana Filho, 3100 - Pituaçu</Endereco>
+    <Cidade>Salvador</Cidade>
+    <Estado>Bahia</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/universidadesalvador</Redes>
+    <O_que_esta_arrecadando>Alimentos não pereciveis, Produtos de higiene pessoal, Agasalhos e roupa de cama, Ração (Cão e Gato)</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 20h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
+  <ponto>
+    <Lugar>Universidade Salvador (UNIFACS)</Lugar>
+    <Endereco>Rua da Mangabeira, 33 - Nazaré (CAMPUS LAPA)</Endereco>
+    <Cidade>Salvador</Cidade>
+    <Estado>Bahia</Estado>
+    <Contato>-</Contato>
+    <Redes>https://www.instagram.com/universidadesalvador</Redes>
+    <O_que_esta_arrecadando>Alimentos não pereciveis, Produtos de higiene pessoal, Agasalhos e roupa de cama, Ração (Cão e Gato)</O_que_esta_arrecadando>
+    <Horario_Atendimento>8h às 20h</Horario_Atendimento>
+    <Data_Limite>-</Data_Limite>
+  </ponto>
 </pontos>

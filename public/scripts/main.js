@@ -30,11 +30,18 @@ function exibirDadosXML() {
 
             // Exibição da tabela na div com id "dados"
             document.getElementById("dados").innerHTML = tabelaHTML;
-            $('#myTable').DataTable({
+            let table = $('#myTable').DataTable({
                 language: {
-                    url: "scripts/data-table-br/pt-BR.json"
-                }
+                    url: "scripts/data-table-br/pt-BR.json",
+                },
             });
+
+            if ($('#estadoBusca').val() != null) {
+                table.columns(3).search($('#estadoBusca').val()).draw();
+            }
+            if ($('#cidadeBusca').val() != null) {
+                table.columns(2).search($('#cidadeBusca').val()).draw();
+            }
         }
     };
     xhttp.open("GET", arquivoXML, true);
@@ -89,6 +96,19 @@ $(document).ready(function () {
                 });
             }
         });
+
+        $.ajax({
+            url: "https://servicodados.ibge.gov.br/api/v1/localidades/estados",
+            type: "GET",
+            success: function (estados) {
+                var selectEstado = $("#estadoBusca");
+                selectEstado.empty();
+                selectEstado.append("<option value=''>Selecione um estado</option>");
+                $.each(estados, function (index, estado) {
+                    selectEstado.append("<option value='" + estado.nome + "' estado_id='" + estado.id + "'>" + estado.nome + "</option>");
+                });
+            }
+        });
     }
     // Carregar os estados quando a página é carregada
     carregarEstados();
@@ -98,6 +118,15 @@ $(document).ready(function () {
         var estadoId = $(this).find(":selected").attr("estado_id");
         if (estadoId) {
             carregarCidades(estadoId);
+        } else {
+            $("#cidade").empty().append("<option value=''>Selecione um estado primeiro</option>");
+        }
+    });
+    $("#estadoBusca").on("change", function () {
+        exibirDadosXML()
+        var estadoId = $(this).find(":selected").attr("estado_id");
+        if (estadoId) {
+            carregarCidadesBusca(estadoId);
         } else {
             $("#cidade").empty().append("<option value=''>Selecione um estado primeiro</option>");
         }
@@ -118,15 +147,22 @@ $(document).ready(function () {
             }
         });
     }
+    function carregarCidadesBusca(estadoId) {
+        $.ajax({
+            url: "https://servicodados.ibge.gov.br/api/v1/localidades/estados/" + estadoId + "/municipios",
+            type: "GET",
+            success: function (cidades) {
+                var selectCidade = $("#cidadeBusca");
+                selectCidade.empty();
+                selectCidade.append("<option value=''>Selecione uma cidade</option>");
+                $.each(cidades, function (index, cidade) {
+                    selectCidade.append("<option value='" + cidade.nome + "'>" + cidade.nome + "</option>");
+                });
+            }
+        });
+    }
 
-    // let table = $('#myTable').DataTable();
-
-    // // Adicione os filtros por estado e cidade
-    // $('#filtroEstado').on('change', function() {
-    //     table.columns(3).search(this.value).draw();
-    // });
-
-    // $('#filtroCidade').on('change', function() {
-    //     table.columns(2).search(this.value).draw();
-    // });
+    $("#cidadeBusca").on("change", function () {
+        exibirDadosXML()
+    });
 });
